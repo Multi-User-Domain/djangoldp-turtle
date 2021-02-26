@@ -1,0 +1,1 @@
+default_app_config = 'djangoldp_turtle.tests.apps.DjangoLDPTurtleTestsAppConfig'
